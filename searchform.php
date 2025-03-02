@@ -1,0 +1,1 @@
+<form  class="search full" method="get" action="<?php echo get_home_url(); ?>">	<input  type="text" name="s" placeholder="<?php _e('Search..', 'torofilm'); ?>">	<button type="submit" class="btn npd lnk">		<i id="sl_home_h" class="fa-search"></i>	</button></form>

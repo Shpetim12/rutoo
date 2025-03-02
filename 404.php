@@ -1,0 +1,1 @@
+<?php get_header(); ?><div class="bd cont">	<div class="oops fa-sad-tear far">		<h1 class="oops-title"><?php _e('Oops!...', 'torofilm'); ?></h1>		<p><?php _e('The page you are looking for does not exist...', 'torofilm'); ?></p>		<a href="<?php echo esc_url( home_url() ); ?>" class="btn"><?php _e('Back to Home', 'torofilm'); ?></a>	</div></div><?php get_footer(); ?>

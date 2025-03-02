@@ -1,0 +1,140 @@
+### 15.03.2020 - V1.0
+    - Initial release
+
+### 23.03.2020 - V1.01
+	- Fixed: Save data on user option perfil
+	- Fixed: Save links downloads on series
+	- Added: Pagination and widgets on pages movies and series
+	- Added: button close trailer on movies and series 
+	- Fixed: Trailer on series 
+
+### 26.03.2020 - V1.02
+	- Fixed: Disable user login the search bar will disappear from the mobile device
+	- Fixed: Widget Popular
+
+### 28.03.2020 - V1.03
+	- Fixed: Error security
+
+### 27.04.2020 - V1.04
+	- Fixed: Login form 
+	- Added: Traduction some terms
+	- Fixed: Widget movies for year 
+	- Fixed: Function for text traduction 
+	- Fixed: Bug on player options 
+	- Added: Option for encrypt and no encrypt player
+	- Fixed: CSS details
+
+### 04.05.2020 - V2.1.0
+	- Fixed: Traductions 
+	- Added: Traduction some terms
+	- Fixed: More Bug's 
+	- Added: Option for actived thumbnails episodes
+	- Added: Option for advertising in player envelopes
+	- Added: Basic support for normal publications ( Post )
+	- Added: New page for news ( posts )
+	- Added: Basic technical improvements  
+
+### 04.05.2020 - V2.1.1 
+	- Fixed: order episodes 
+	- Fixed: taxonomies year
+
+### 19.05.2020 - V2.1.2 
+	- Fixed: Image avatar and messages
+	- Added: Description in category
+
+### 01.06.2020 - V2.1.3 
+	- Fixed: Design of single post
+	- Fixed: Traductions
+
+### 13.06.2020 - V2.1.4 
+	- Fixed: TV and Others platforms performance
+
+### 17.07.2020 - V2.1.5 
+	- Fixed: upload photo
+
+### 26.07.2020 - V2.2.0 
+	- Fixed: Bugs security
+
+### 28.07.2020 - V2.2.1 
+	- Fixed: initial configuration of theme
+
+### 01.08.2020 - V2.2.2 
+	- Added: tags in movies and series
+	- Fixed: Search suggestion 
+	- Added: Nonces security in ajax
+
+### 04.09.2020 - V2.2.3 
+	- Added: lazy loading on images
+	- Fixed: duplicate item on series and movies page
+	- Fixed: minor bugs
+
+### 01.10.2020 - V2.2.4
+	- Added: Configuration image home with hotlink
+	- Fixed: tabs type post
+	- Fixed: TR Grabber Plugin, add post
+
+### 01.10.2020 - V2.2.5
+	- Fixed: Episodes specials
+
+### 10.10.2020 - V2.2.6
+	- Fixed: remove image upload user setting
+
+### 15.10.2020 - V2.2.7
+	- Added: Chinese, Japanese and German languages
+	- Fixed: Order of seasons and chapters
+	- Fixed: Languages 
+
+### 18.10.2020 - V2.2.8
+	- Added: Option Analityc
+	- Fixed: Background in movies and series
+
+### 1.11.2020 - V2.2.9
+	- Fixed: Thumbnails
+
+### 20.11.2020 - 2.3.0
+	- Added: Fake player basic
+
+### 20.11.2020 - 2.3.1
+	- Added: Fake player
+
+### 24.12.2020 - 2.3.2
+	- Fixed: iOS and Mac
+
+### 08.01.2020 - 2.3.3
+	- Fixed: Bug in player && download for movies and episodes
+	- Fixed: Recommend movies and series when is empty 
+	- Fixed: Bug in server download for movie and episode
+	- Added: Tags on movies and series
+
+### 13.01.2020 - 2.3.4
+	- Fixed: Bug in player
+
+### 17.01.2021 - 2.3.5
+	- Fixed: Aspect Images
+
+### 21.01.2021 - 2.3.6
+	- Added: description on terms
+
+### 11.02.2021 - V2.3.7
+	- Fixed: Desing of widget list post
+	- Added: Filter by category - all for widget list post
+
+### 16.02.2021 - V2.3.8
+	- Fixed: Desing of widget categories
+
+### 11.02.2021 - V2.3.9
+	- Added: file of requirements system
+
+### 15.03.2021 - V2.4.0
+	- Added: Tabs players for languages
+	- Added: Option for tabs for language
+	- Added: Next and prev episode
+
+### 31.03.2021 - V2.4.1
+	- Fixed: Trailer players
+	- Added: Widget years
+
+### 03.05.2021 - V2.5.0
+	- Fixed: CSS tab player 
+	- Added: ADS under and top player 
+	- Added: Option for sizes images on single movies y series
